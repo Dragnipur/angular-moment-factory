@@ -1,0 +1,11 @@
+{
+  "name": "angular-moment-factory",
+  "version": "1.10.2",
+  "description": "Angular factory for momentJS",
+  "keywords": [
+    "momentJS",
+    "component"
+  ],
+  "main": "momentFactory.js",
+  "license": "MIT"
+}
